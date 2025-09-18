@@ -1,0 +1,2 @@
+sbatch --dependency=afterok:1 /data/src/PyHipp/ec2snapshot.sh
+Submitted batch job 2
